@@ -62,4 +62,12 @@ body {
 }
 
 
+@media (min-width: 30em) and (max-width: 50em) {
+  /*Cambiar perspectiva segun tamaño*/
+  .caja1 {
+    height: 200px;
+    background-color: aqua;
+  }
+}
+
   

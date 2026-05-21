@@ -1,0 +1,65 @@
+* {
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(241, 241, 241);
+}
+
+.caja1 {
+    border: 2px black solid;
+    background-color: rgb(14, 247, 6);
+    height: 100px;
+
+}
+.caja2 {
+    border: 2px black solid;
+    background-color: rgb(0, 118, 187);
+    height: 100px;
+}
+.caja3 {
+    border: 2px black solid;
+    background-color: rgb(14, 247, 6);
+    height: 100px;
+}
+.caja4 {
+    border: 2px black solid;
+    background-color: rgb(0, 118, 187);
+    height: 100px;
+}
+.caja5{
+    border: 2px black solid;
+    background-color: rgb(14, 247, 6);
+    height: 100px;
+}
+.caja6 {
+    border: 2px black solid;
+    background-color: rgb(0, 118, 187);
+    height: 100px;
+}
+.caja7{
+    border: 2px black solid;
+    background-color: rgb(14, 247, 6);
+    height: 100px;
+}
+.caja8 {
+    border: 2px black solid;
+    background-color: rgb(0, 118, 187);
+    height: 100px;
+}
+.caja9{
+    border: 2px black solid;
+    background-color: rgb(14, 247, 6);
+    height: 100px;
+}
+.caja10 {
+    border: 2px black solid;
+    background-color: rgb(0, 118, 187);
+    height: 100px;
+}
+
+
+  
